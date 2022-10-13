@@ -49,6 +49,11 @@
     "project.structure.side.proportion": "0.2",
     "run.code.analysis.last.selected.profile": "pProject Default",
     "settings.editor.selected.configurable": "preferences.lookFeel"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
   }
 }]]></component>
   <component name="RecentsManager">
@@ -67,7 +72,7 @@
       <updated>1665513048277</updated>
       <workItem from="1665513052076" duration="308000" />
       <workItem from="1665513423208" duration="4370000" />
-      <workItem from="1665675970306" duration="9997000" />
+      <workItem from="1665675970306" duration="10748000" />
     </task>
     <servers />
   </component>
