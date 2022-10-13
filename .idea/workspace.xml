@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c4970636-e9b3-4b58-9fff-cbb25c3361a2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Application/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Application/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Model/Dao/impl/SellerDaoJDBC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Model/Dao/impl/SellerDaoJDBC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Model/dao/SellerDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Model/dao/SellerDao.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +69,7 @@
       <updated>1665513048277</updated>
       <workItem from="1665513052076" duration="308000" />
       <workItem from="1665513423208" duration="4370000" />
-      <workItem from="1665675970306" duration="5405000" />
+      <workItem from="1665675970306" duration="7295000" />
     </task>
     <servers />
   </component>
