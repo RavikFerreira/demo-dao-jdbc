@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c4970636-e9b3-4b58-9fff-cbb25c3361a2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Application/Main2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Application/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Application/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Dao/impl/SellerDaoJDBC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Model/Dao/impl/SellerDaoJDBC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Model/Dao/impl/DepartmentDaoJDBC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Model/Dao/impl/DepartmentDaoJDBC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Model/dao/DepartmentDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Model/dao/DepartmentDao.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +51,7 @@
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2",
     "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+    "settings.editor.selected.configurable": "preferences.language.Kotlin"
   },
   "keyToStringList": {
     "DatabaseDriversLRU": [
@@ -72,7 +75,9 @@
       <updated>1665513048277</updated>
       <workItem from="1665513052076" duration="308000" />
       <workItem from="1665513423208" duration="4370000" />
-      <workItem from="1665675970306" duration="10748000" />
+      <workItem from="1665675970306" duration="16853000" />
+      <workItem from="1665854974974" duration="1006000" />
+      <workItem from="1666019752252" duration="7058000" />
     </task>
     <servers />
   </component>
@@ -89,5 +94,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
