@@ -90,9 +90,9 @@ public class DepartmentDaoJDBC implements DepartmentDao {
             st = conn.prepareStatement(
                     "SELECT department.*,department.Name as Name "
                             + "FROM department INNER JOIN department "
-                            + "ON department.Id = Id "
-                            + "WHERE department.Id = ? "
-            );
+                            + "ON department.Id = department.Id "
+                            + "WHERE department.Id = ? ");
+
             st.setInt(1 , id);
             rs = st.executeQuery();
             if(rs.next()){
@@ -109,8 +109,8 @@ public class DepartmentDaoJDBC implements DepartmentDao {
     }
     private Department instanteationDepartment(ResultSet rs) throws SQLException {
         Department dep = new Department();
-        dep.setId(rs.getInt("DepartmentId"));
-        dep.setName(rs.getString("DepName"));
+        dep.setId(rs.getInt("Id"));
+        dep.setName(rs.getString("Name"));
         return dep;
     }
     @Override

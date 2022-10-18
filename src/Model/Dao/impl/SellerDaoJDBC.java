@@ -48,8 +48,6 @@ public class SellerDaoJDBC implements SellerDao {
             else {
                 throw new DbException("Unexpected error! No rows affected!");
             }
-
-
         }catch (SQLException e){
             throw new DbException(e.getMessage());
         }
@@ -58,7 +56,6 @@ public class SellerDaoJDBC implements SellerDao {
         }
 
     }
-
     @Override
     public void update(Seller obj) {
         PreparedStatement st = null;
